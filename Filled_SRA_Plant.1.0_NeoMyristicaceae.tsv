@@ -1,0 +1,155 @@
+*sample_name	sample_title	bioproject_accession	*organism	isolate	cultivar	ecotype	age	dev_stage	*geo_loc_name	*tissue	biomaterial_provider	cell_line	cell_type	collected_by	collection_date	culture_collection	disease	disease_stage	genotype	growth_protocol	height_or_length	isolation_source	lat_lon	phenotype	population	sample_type	sex	specimen_voucher	temp	treatment	description
+S01_20008_64053-0_GACCAAGTTAGATTCACGAC_L001_R1_001_AHTV2GDRXX			Virola obovata							leaf																					
+S01_20008_64053-0_GACCAAGTTAGATTCACGAC_L001_R2_001_AHTV2GDRXX			Virola obovata							leaf																					
+S05_20008_64053-4_ACGTGAGGAACGTAGAACAG_L001_R1_001_AHTV2GDRXX			Iryanthera hostmannii							leaf																					
+S05_20008_64053-4_ACGTGAGGAACGTAGAACAG_L001_R2_001_AHTV2GDRXX			Iryanthera hostmannii							leaf																					
+S09_20008_64053-8_CCTGGTGAGATGGCTCATGT_L001_R1_001_AHTV2GDRXX			Virola aff. guatemalensis (Hemsl.) Warb.							leaf																					
+S09_20008_64053-8_CCTGGTGAGATGGCTCATGT_L001_R2_001_AHTV2GDRXX			Virola aff. guatemalensis (Hemsl.) Warb.							leaf																					
+S10_20008_64053-9_ACGCTAATCTCTGGCATATT_L001_R1_001_AHTV2GDRXX			Unknown Myristicaceae							leaf																					
+S10_20008_64053-9_ACGCTAATCTCTGGCATATT_L001_R2_001_AHTV2GDRXX			Unknown Myristicaceae							leaf																					
+S11_20008_64053-10_CCTGGTGAGAAGAACCTCGC_L001_R1_001_AHTV2GDRXX			Virola carinata							leaf																					
+S11_20008_64053-10_CCTGGTGAGAAGAACCTCGC_L001_R2_001_AHTV2GDRXX			Virola carinata							leaf																					
+S12_20008_64053-11_CGCAGCTAGACTGGCATATT_L001_R1_001_AHTV2GDRXX			Virola nobilis A.C. Sm.							leaf																					
+S12_20008_64053-11_CGCAGCTAGACTGGCATATT_L001_R2_001_AHTV2GDRXX			Virola nobilis A.C. Sm.							leaf																					
+S13_20008_64053-12_ACGCTAATCTCGTGACTCTA_L001_R1_001_AHTV2GDRXX			Virola venosa (Benth.) Warb.							leaf																					
+S13_20008_64053-12_ACGCTAATCTCGTGACTCTA_L001_R2_001_AHTV2GDRXX			Virola venosa (Benth.) Warb.							leaf																					
+S14_20008_64053-13_CCTGGTGAGAGATTCACGAC_L001_R1_001_AHTV2GDRXX			Virola gardneri							leaf																					
+S14_20008_64053-13_CCTGGTGAGAGATTCACGAC_L001_R2_001_AHTV2GDRXX			Virola gardneri							leaf																					
+S15_20008_64053-14_ATCGGTCTGGGACCTGTTAA_L001_R1_001_AHTV2GDRXX			Virola gardneri							leaf																					
+S15_20008_64053-14_ATCGGTCTGGGACCTGTTAA_L001_R2_001_AHTV2GDRXX			Virola gardneri							leaf																					
+S16_20008_64053-15_AAGGCTGTGGTGGCTCATGT_L001_R1_001_AHTV2GDRXX			Otoba parvifolia							leaf																					
+S16_20008_64053-15_AAGGCTGTGGTGGCTCATGT_L001_R2_001_AHTV2GDRXX			Otoba parvifolia							leaf																					
+S17_20008_64053-16_CCTGGTGAGAACCTAAGAGC_L001_R1_001_AHTV2GDRXX			Virola malmei A.C. Sm.							leaf																					
+S17_20008_64053-16_CCTGGTGAGAACCTAAGAGC_L001_R2_001_AHTV2GDRXX			Virola malmei A.C. Sm.							leaf																					
+S19_20008_64053-18_TGACCTGCTGTACCTAAGTG_L001_R1_001_AHTV2GDRXX			Iryanthera lancifolia 							leaf																					
+S19_20008_64053-18_TGACCTGCTGTACCTAAGTG_L001_R2_001_AHTV2GDRXX			Iryanthera lancifolia 							leaf																					
+S20_20008_64053-19_ACGTGAGGAAAGAACCTCGC_L001_R1_001_AHTV2GDRXX			Virola subsessilis (Benth.) Warb.							leaf																					
+S20_20008_64053-19_ACGTGAGGAAAGAACCTCGC_L001_R2_001_AHTV2GDRXX			Virola subsessilis (Benth.) Warb.							leaf																					
+S21_20008_64053-20_TGACCTGCTGATATAAGGCG_L001_R1_001_AHTV2GDRXX			Virola officinalis 							leaf																					
+S21_20008_64053-20_TGACCTGCTGATATAAGGCG_L001_R2_001_AHTV2GDRXX			Virola officinalis 							leaf																					
+S22_20008_64053-21_GAATAGCAAGAGAACCTCGC_L001_R1_001_AHTV2GDRXX			Virola michelii Heckel							leaf																					
+S22_20008_64053-21_GAATAGCAAGAGAACCTCGC_L001_R2_001_AHTV2GDRXX			Virola michelii Heckel							leaf																					
+S23_20008_64053-22_TTCAGTTGGAGATTCACGAC_L001_R1_001_AHTV2GDRXX			Virola reidii Little							leaf																					
+S23_20008_64053-22_TTCAGTTGGAGATTCACGAC_L001_R2_001_AHTV2GDRXX			Virola reidii Little							leaf																					
+S26_20008_64053-25_ACGTGAGGAACCTACGGACA_L001_R1_001_AHTV2GDRXX			Virola mollissima (Poepp. Ex A. DC.) Warb.							leaf																					
+S26_20008_64053-25_ACGTGAGGAACCTACGGACA_L001_R2_001_AHTV2GDRXX			Virola mollissima (Poepp. Ex A. DC.) Warb.							leaf																					
+S28_20008_64053-27_GAATCGTCCGCCTACGGACA_L001_R1_001_AHTV2GDRXX			Virola minutiflora (Standl.) A.C. Sm. 							leaf																					
+S28_20008_64053-27_GAATCGTCCGCCTACGGACA_L001_R2_001_AHTV2GDRXX			Virola minutiflora (Standl.) A.C. Sm. 							leaf																					
+S29_20008_64053-28_GAATAGCAAGGACCTGTTAA_L001_R1_001_AHTV2GDRXX			Virola lieneana							leaf																					
+S29_20008_64053-28_GAATAGCAAGGACCTGTTAA_L001_R2_001_AHTV2GDRXX			Virola lieneana							leaf																					
+S30_20008_64053-29_GTGGCAACATATATAAGGCG_L001_R1_001_AHTV2GDRXX			Otoba parvifolia							leaf																					
+S30_20008_64053-29_GTGGCAACATATATAAGGCG_L001_R2_001_AHTV2GDRXX			Otoba parvifolia							leaf																					
+S31_20008_64053-30_CCTGGTGAGACCTACGGACA_L001_R1_001_AHTV2GDRXX			Otoba parvifolia							leaf																					
+S31_20008_64053-30_CCTGGTGAGACCTACGGACA_L001_R2_001_AHTV2GDRXX			Otoba parvifolia							leaf																					
+S32_20008_64053-31_ATTAAGGTCGATATAAGGCG_L001_R1_001_AHTV2GDRXX			Otoba parvifolia							leaf																					
+S32_20008_64053-31_ATTAAGGTCGATATAAGGCG_L001_R2_001_AHTV2GDRXX			Otoba parvifolia							leaf																					
+S33_20008_64053-32_ACGTGAGGAACAACAGTGGA_L001_R1_001_AHTV2GDRXX			Otoba parvifolia							leaf																					
+S33_20008_64053-32_ACGTGAGGAACAACAGTGGA_L001_R2_001_AHTV2GDRXX			Otoba parvifolia							leaf																					
+S35_20008_64053-34_TTCAGTTGGAATGGCTTCTA_L001_R1_001_AHTV2GDRXX			Otoba sp. 							leaf																					
+S35_20008_64053-34_TTCAGTTGGAATGGCTTCTA_L001_R2_001_AHTV2GDRXX			Otoba sp. 							leaf																					
+S36_20008_64053-35_TTCAGTTGGACCTTACCTAT_L001_R1_001_AHTV2GDRXX			Otoba parvifolia							leaf																					
+S36_20008_64053-35_TTCAGTTGGACCTTACCTAT_L001_R2_001_AHTV2GDRXX			Otoba parvifolia							leaf																					
+S37_20008_64053-36_ATCGGTCTGGAGAACCTCGC_L001_R1_001_AHTV2GDRXX			Otoba lehmannii (A.C. Sm.) A.H. Gentry							leaf																					
+S37_20008_64053-36_ATCGGTCTGGAGAACCTCGC_L001_R2_001_AHTV2GDRXX			Otoba lehmannii (A.C. Sm.) A.H. Gentry							leaf																					
+S40_20008_64053-39_GTGGCAACATATGGCTTCTA_L001_R1_001_AHTV2GDRXX			Otoba novogranatensis Moldenke							leaf																					
+S40_20008_64053-39_GTGGCAACATATGGCTTCTA_L001_R2_001_AHTV2GDRXX			Otoba novogranatensis Moldenke							leaf																					
+S41_20008_64053-40_CTCCGCTTATACCTAAGAGC_L001_R1_001_AHTV2GDRXX			Virola calophylla							leaf																					
+S41_20008_64053-40_CTCCGCTTATACCTAAGAGC_L001_R2_001_AHTV2GDRXX			Virola calophylla							leaf																					
+S42_20008_64053-41_ATTAAGGTCGATGGCTTCTA_L001_R1_001_AHTV2GDRXX			Virola albidiflora Ducke							leaf																					
+S42_20008_64053-41_ATTAAGGTCGATGGCTTCTA_L001_R2_001_AHTV2GDRXX			Virola albidiflora Ducke							leaf																					
+S43_20008_64053-42_GTGGCAACATTACCTAAGTG_L001_R1_001_AHTV2GDRXX			Virola theiodora (Spruce ex Benth.) Warb.							leaf																					
+S43_20008_64053-42_GTGGCAACATTACCTAAGTG_L001_R2_001_AHTV2GDRXX			Virola theiodora (Spruce ex Benth.) Warb.							leaf																					
+S45_20008_64053-44_CGCAGCTAGAATATAAGGCG_L001_R1_001_AHTV2GDRXX			Virola mollissima							leaf																					
+S45_20008_64053-44_CGCAGCTAGAATATAAGGCG_L001_R2_001_AHTV2GDRXX			Virola mollissima							leaf																					
+S48_20008_64053-47_AGCCTGTTGTATATAAGGCG_L001_R1_001_AHTV2GDRXX			Virola venosa							leaf																					
+S48_20008_64053-47_AGCCTGTTGTATATAAGGCG_L001_R2_001_AHTV2GDRXX			Virola venosa							leaf																					
+S49_20008_64053-48_ATTAAGGTCGACCTAAGAGC_L001_R1_001_AHTV2GDRXX			Virola surinamensis (Rol. ex Rottb.) Warb.							leaf																					
+S49_20008_64053-48_ATTAAGGTCGACCTAAGAGC_L001_R2_001_AHTV2GDRXX			Virola surinamensis (Rol. ex Rottb.) Warb.							leaf																					
+S50_20008_64053-49_CGCAGCTAGACCTTACCTAT_L001_R1_001_AHTV2GDRXX			Virola dixonii Little							leaf																					
+S50_20008_64053-49_CGCAGCTAGACCTTACCTAT_L001_R2_001_AHTV2GDRXX			Virola dixonii Little							leaf																					
+S51_20008_64053-50_ACGCTAATCTATATAAGGCG_L001_R1_001_AHTV2GDRXX			Iryanthera lancifolia							leaf																					
+S51_20008_64053-50_ACGCTAATCTATATAAGGCG_L001_R2_001_AHTV2GDRXX			Iryanthera lancifolia							leaf																					
+S52_20008_64053-51_ACGCTAATCTAGCATCGTGC_L001_R1_001_AHTV2GDRXX			Virola calophylla							leaf																					
+S52_20008_64053-51_ACGCTAATCTAGCATCGTGC_L001_R2_001_AHTV2GDRXX			Virola calophylla							leaf																					
+S53_20008_64053-52_GTTGTTACCTCTGGCATATT_L001_R1_001_AHTV2GDRXX			Virola pavonis							leaf																					
+S53_20008_64053-52_GTTGTTACCTCTGGCATATT_L001_R2_001_AHTV2GDRXX			Virola pavonis							leaf																					
+S54_20008_64053-53_ACGAAGTGCGCGTGACTCTA_L001_R1_001_AHTV2GDRXX			Iryanthera lancifolia							leaf																					
+S54_20008_64053-53_ACGAAGTGCGCGTGACTCTA_L001_R2_001_AHTV2GDRXX			Iryanthera lancifolia							leaf																					
+S55_20008_64053-54_CTCCGCTTATATGGCTTCTA_L001_R1_001_AHTV2GDRXX			Virola multicostata Ducke							leaf																					
+S55_20008_64053-54_CTCCGCTTATATGGCTTCTA_L001_R2_001_AHTV2GDRXX			Virola multicostata Ducke							leaf																					
+S56_20008_64053-55_ATTAAGGTCGTACCTAAGTG_L001_R1_001_AHTV2GDRXX			Virola dixonii							leaf																					
+S56_20008_64053-55_ATTAAGGTCGTACCTAAGTG_L001_R2_001_AHTV2GDRXX			Virola dixonii							leaf																					
+S57_20008_64053-56_GTGGCAACATCCTTACCTAT_L001_R1_001_AHTV2GDRXX			Virola dixonii							leaf																					
+S57_20008_64053-56_GTGGCAACATCCTTACCTAT_L001_R2_001_AHTV2GDRXX			Virola dixonii							leaf																					
+S59_20008_64053-58_GTTGTTACCTCGTGACTCTA_L001_R1_001_AHTV2GDRXX			Virola decorticans							leaf																					
+S59_20008_64053-58_GTTGTTACCTCGTGACTCTA_L001_R2_001_AHTV2GDRXX			Virola decorticans							leaf																					
+S60_20008_64053-59_ACGAAGTGCGGACCTGTTAA_L001_R1_001_AHTV2GDRXX			Virola aequatorialis							leaf																					
+S60_20008_64053-59_ACGAAGTGCGGACCTGTTAA_L001_R2_001_AHTV2GDRXX			Virola aequatorialis							leaf																					
+S61_20008_64053-60_GAATAGCAAGTGGCTCATGT_L001_R1_001_AHTV2GDRXX			Iryanthera hostmannii							leaf																					
+S61_20008_64053-60_GAATAGCAAGTGGCTCATGT_L001_R2_001_AHTV2GDRXX			Iryanthera hostmannii							leaf																					
+S63_20008_64053-62_CTCCGCTTATTACCTAAGTG_L001_R1_001_AHTV2GDRXX			Iryanthera hostmannii							leaf																					
+S63_20008_64053-62_CTCCGCTTATTACCTAAGTG_L001_R2_001_AHTV2GDRXX			Iryanthera hostmannii							leaf																					
+S64_20008_64053-63_ATTAAGGTCGCCTTACCTAT_L001_R1_001_AHTV2GDRXX			Virola subsessilis 							leaf																					
+S64_20008_64053-63_ATTAAGGTCGCCTTACCTAT_L001_R2_001_AHTV2GDRXX			Virola subsessilis 							leaf																					
+S66_20008_64053-65_GTTGTTACCTGACCTGTTAA_L001_R1_001_AHTV2GDRXX			Virola carinata							leaf																					
+S66_20008_64053-65_GTTGTTACCTGACCTGTTAA_L001_R2_001_AHTV2GDRXX			Virola carinata							leaf																					
+S67_20008_64053-66_ACGAAGTGCGTGGCTCATGT_L001_R1_001_AHTV2GDRXX			Virola dixonii							leaf																					
+S67_20008_64053-66_ACGAAGTGCGTGGCTCATGT_L001_R2_001_AHTV2GDRXX			Virola dixonii							leaf																					
+S68_20008_64053-67_ACGTGAGGAAAGGCATAATG_L001_R1_001_AHTV2GDRXX			Virola duckei							leaf																					
+S68_20008_64053-67_ACGTGAGGAAAGGCATAATG_L001_R2_001_AHTV2GDRXX			Virola duckei							leaf																					
+S69_20008_64053-68_TCGAACACGACAACAGTGGA_L001_R1_001_AHTV2GDRXX			Virola gardneri							leaf																					
+S69_20008_64053-68_TCGAACACGACAACAGTGGA_L001_R2_001_AHTV2GDRXX			Virola gardneri							leaf																					
+S70_20008_64053-69_GACCAAGTTATACCTAAGTG_L001_R1_001_AHTV2GDRXX			Virola reidii							leaf																					
+S70_20008_64053-69_GACCAAGTTATACCTAAGTG_L001_R2_001_AHTV2GDRXX			Virola reidii							leaf																					
+S71_20008_64053-70_CTCCGCTTATCCTTACCTAT_L001_R1_001_AHTV2GDRXX			Virola calophylla (Spruce) Warb.							leaf																					
+S71_20008_64053-70_CTCCGCTTATCCTTACCTAT_L001_R2_001_AHTV2GDRXX			Virola calophylla (Spruce) Warb.							leaf																					
+S73_20008_64053-72_TGACCTGCTGCTGGCATATT_L001_R1_001_AHTV2GDRXX			Virola obovata							leaf																					
+S73_20008_64053-72_TGACCTGCTGCTGGCATATT_L001_R2_001_AHTV2GDRXX			Virola obovata							leaf																					
+S74_20008_64053-73_CGCAGCTAGACGTGACTCTA_L001_R1_001_AHTV2GDRXX			Virola multiflora  							leaf																					
+S74_20008_64053-73_CGCAGCTAGACGTGACTCTA_L001_R2_001_AHTV2GDRXX			Virola multiflora  							leaf																					
+S75_20008_64053-74_GTTGTTACCTTGGCTCATGT_L001_R1_001_AHTV2GDRXX			Virola multinervia Ducke							leaf																					
+S75_20008_64053-74_GTTGTTACCTTGGCTCATGT_L001_R2_001_AHTV2GDRXX			Virola multinervia Ducke							leaf																					
+S76_20008_64053-75_ACGAAGTGCGAGAACCTCGC_L001_R1_001_AHTV2GDRXX			Virola multicostata							leaf																					
+S76_20008_64053-75_ACGAAGTGCGAGAACCTCGC_L001_R2_001_AHTV2GDRXX			Virola multicostata							leaf																					
+S77_20008_64053-76_GAATAGCAAGCCTACGGACA_L001_R1_001_AHTV2GDRXX			Virola calophylla (Spruce) Warb.							leaf																					
+S77_20008_64053-76_GAATAGCAAGCCTACGGACA_L001_R2_001_AHTV2GDRXX			Virola calophylla (Spruce) Warb.							leaf																					
+S78_20008_64053-77_CCTGGTGAGAAGGCATAATG_L001_R1_001_AHTV2GDRXX			Virola sp							leaf																					
+S78_20008_64053-77_CCTGGTGAGAAGGCATAATG_L001_R2_001_AHTV2GDRXX			Virola sp							leaf																					
+S80_20008_64053-79_AATGCGGTTCTACCTAAGTG_L001_R1_001_AHTV2GDRXX			Virola officinalis  							leaf																					
+S80_20008_64053-79_AATGCGGTTCTACCTAAGTG_L001_R2_001_AHTV2GDRXX			Virola officinalis  							leaf																					
+S81_20008_64053-80_AGTGTCGCGACTGGCATATT_L001_R1_001_AHTV2GDRXX			Virola pavonis (A.DC.) A.C.Sm.							leaf																					
+S81_20008_64053-80_AGTGTCGCGACTGGCATATT_L001_R2_001_AHTV2GDRXX			Virola pavonis (A.DC.) A.C.Sm.							leaf																					
+S82_20008_64053-81_AATGCGGTTCATATAAGGCG_L001_R1_001_AHTV2GDRXX			Virola subsessilis  							leaf																					
+S82_20008_64053-81_AATGCGGTTCATATAAGGCG_L001_R2_001_AHTV2GDRXX			Virola subsessilis  							leaf																					
+S84_20008_64053-83_ATGCGCGTAACTGGCATATT_L001_R1_001_AHTV2GDRXX			Virola elongata (Benth.) Warb.							leaf																					
+S84_20008_64053-83_ATGCGCGTAACTGGCATATT_L001_R2_001_AHTV2GDRXX			Virola elongata (Benth.) Warb.							leaf																					
+S85_20008_64053-84_GCTAAGAGAACGTGACTCTA_L001_R1_001_AHTV2GDRXX			Virola pavonis (A.DC.) A.C.Sm.							leaf																					
+S85_20008_64053-84_GCTAAGAGAACGTGACTCTA_L001_R2_001_AHTV2GDRXX			Virola pavonis (A.DC.) A.C.Sm.							leaf																					
+S86_20008_64053-85_AGTGTCGCGAGACCTGTTAA_L001_R1_001_AHTV2GDRXX			Virola flexuosa							leaf																					
+S86_20008_64053-85_AGTGTCGCGAGACCTGTTAA_L001_R2_001_AHTV2GDRXX			Virola flexuosa							leaf																					
+S87_20008_64053-86_TCGATCTCCATGGCTCATGT_L001_R1_001_AHTV2GDRXX			Virola sebifera Aubl.							leaf																					
+S87_20008_64053-86_TCGATCTCCATGGCTCATGT_L001_R2_001_AHTV2GDRXX			Virola sebifera Aubl.							leaf																					
+S88_20008_64053-87_AAGGCTGTGGCCTACGGACA_L001_R1_001_AHTV2GDRXX			Virola weberbaueri							leaf																					
+S88_20008_64053-87_AAGGCTGTGGCCTACGGACA_L001_R2_001_AHTV2GDRXX			Virola weberbaueri							leaf																					
+S89_20008_64053-88_TCTATTCGGTAGGCATAATG_L001_R1_001_AHTV2GDRXX			Virola elongata (Benth.) Warb.							leaf																					
+S89_20008_64053-88_TCTATTCGGTAGGCATAATG_L001_R2_001_AHTV2GDRXX			Virola elongata (Benth.) Warb.							leaf																					
+S90_20008_64053-89_CCTGGTGAGACGTAGAACAG_L001_R1_001_AHTV2GDRXX			Virola calophylla (Spruce) Warb.							leaf																					
+S90_20008_64053-89_CCTGGTGAGACGTAGAACAG_L001_R2_001_AHTV2GDRXX			Virola calophylla (Spruce) Warb.							leaf																					
+S91_20008_64053-90_ACGTGAGGAAACCTAAGAGC_L001_R1_001_AHTV2GDRXX			Virola gardneri							leaf																					
+S91_20008_64053-90_ACGTGAGGAAACCTAAGAGC_L001_R2_001_AHTV2GDRXX			Virola gardneri							leaf																					
+S93_20008_64053-92_TTCAGTTGGATACCTAAGTG_L001_R1_001_AHTV2GDRXX			Compsoneura racemosa							leaf																					
+S93_20008_64053-92_TTCAGTTGGATACCTAAGTG_L001_R2_001_AHTV2GDRXX			Compsoneura racemosa							leaf																					
+S94_20008_64053-93_AATGCGGTTCCCTTACCTAT_L001_R1_001_AHTV2GDRXX			Virola flexuosa A.C.Sm.							leaf																					
+S94_20008_64053-93_AATGCGGTTCCCTTACCTAT_L001_R2_001_AHTV2GDRXX			Virola flexuosa A.C.Sm.							leaf																					
+rc_S18_20008_64053-111_TCGTGTTCGATACCTAAGTG_L001_R1_001_AHTV2GDRXX			Virola elongata (Benth.) Warb.							leaf																					
+rc_S18_20008_64053-111_TCGTGTTCGATACCTAAGTG_L001_R2_001_AHTV2GDRXX			Virola elongata (Benth.) Warb.							leaf																					
+rc_S34_20008_64053-127_TCGTGTTCGAACCTAAGAGC_L001_R1_001_AHTV2GDRXX			Virola elongata (Benth.) Warb.							leaf																					
+rc_S34_20008_64053-127_TCGTGTTCGAACCTAAGAGC_L001_R2_001_AHTV2GDRXX			Virola elongata (Benth.) Warb.							leaf																					
+rc_S62_20008_64053-155_TCGTGTTCGAAGGCATAATG_L001_R1_001_AHTV2GDRXX			Virola elongata (Benth.) Warb.							leaf																					
+rc_S62_20008_64053-155_TCGTGTTCGAAGGCATAATG_L001_R2_001_AHTV2GDRXX			Virola elongata (Benth.) Warb.							leaf																					
+rc_S69_20008_64053-162_TCGTGTTCGACAACAGTGGA_L001_R1_001_AHTV2GDRXX			Virola elongata (Benth.) Warb.							leaf																					
+rc_S69_20008_64053-162_TCGTGTTCGACAACAGTGGA_L001_R2_001_AHTV2GDRXX			Virola elongata (Benth.) Warb.							leaf																					
+rc_S79_20008_64053-172_TCGTGTTCGAGATTCACGAC_L001_R1_001_AHTV2GDRXX			Virola elongata (Benth.) Warb.							leaf																					
+rc_S79_20008_64053-172_TCGTGTTCGAGATTCACGAC_L001_R2_001_AHTV2GDRXX			Virola elongata (Benth.) Warb.							leaf																					
+rc_S92_20008_64053-185_TCGTGTTCGAATGGCTTCTA_L001_R1_001_AHTV2GDRXX			Virola elongata (Benth.) Warb.							leaf																					
+rc_S92_20008_64053-185_TCGTGTTCGAATGGCTTCTA_L001_R2_001_AHTV2GDRXX			Virola elongata (Benth.) Warb.							leaf																					
